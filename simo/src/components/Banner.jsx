@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 
+
 function Banner() {
   return (
     <section className="banner" id="banner">
@@ -9,7 +10,7 @@ function Banner() {
           <div style={{
             paddingTop:'50px'
           }}className="banner-img">
-            <img width={300} height={300} src="/simran.jpeg" alt="" />
+            <img width={300} height={300} src="/simran.jpeg" alt="simran" />
           </div>
           <div className="banner-content">
             <h6>Hello, I'm Simran Bai</h6>
